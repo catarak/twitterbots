@@ -57,9 +57,12 @@ Time to try making our own. Break into groups and come up with an idea for your 
 
 ## Some Ethical Guidelines
 
-To quote Leonard Richardson and an axiom of the botmaking community, ["Bots should punch up"](https://www.crummy.com/2013/11/27/0). If you're bot makes jokes at someone's expense, make sure they're higher status than you, aka it's cool to make bots that make fun of corporations, politicians and celebrities, but its not cool to make bots that bully and harass regular people, especially groups of people that put up with a lot of that harassment already.
+To quote Leonard Richardson and an axiom of the botmaking community, ["Bots should punch up"](https://www.crummy.com/2013/11/27/0). If your bot makes jokes at someone's expense, make sure they're higher status than you, aka it's cool to make bots that make fun of corporations, politicians and celebrities, but its not cool to make bots that bully and harass regular people, especially groups of people that put up with a lot of that harassment already.
+
+If your bot "accidentally" generates text that is harmful in any way, for example, if the text is sexist, racism, ableism, and so on, that is a problem. It is your responsibility as a bot-maker to think about and prevent this. You are responsible for the actions of your bot, especially if it hurts another person.
 
 ## Going Further
-Tracery can be used in any JavaScript project, including with p5, to make generative websites and games. Visit the [github repo](https://github.com/galaxykate/tracery/tree/tracery2) for more on how to use it. Check out [Interruption Junction](http://squinky.me/interruption/) as something a little different using Tracery.
-
-You can make more advanced Twitter bots that do things like markov text generation, uploading images, replying, and showing p5/processing images by programming them yourself in Node or Python. Dan Shiffman's The Coding Train has a great set of videos on making a [Twitter bot in Node.js](https://www.youtube.com/watch?v=RF5_MPSNAtU)
+* [Tracery Github repository](https://github.com/galaxykate/tracery/tree/tracery2) - The source code for Tracery. You can use it in any JavaScript project!
+* [Interruption Junction](http://squinky.me/interruption/) - a non-bot (a game!) using Tracery.
+* Make a Tracery bot on Mastodon, using this [Glitch.com template](https://glitch.com/edit/#!/tracery-mastodon-bot).
+* Dan Shiffman's The Coding Train has a great set of videos on making a [Twitter bot in Node.js](https://www.youtube.com/watch?v=RF5_MPSNAtU), without using Tracery/CBDQ. You can program one from scratch if you want, and do more complex stuff!
