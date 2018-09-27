@@ -59,7 +59,7 @@ Time to try making our own. Break into groups and come up with an idea for your 
 
 To quote Leonard Richardson and an axiom of the botmaking community, ["Bots should punch up"](https://www.crummy.com/2013/11/27/0). If your bot makes jokes at someone's expense, make sure they're higher status than you, aka it's cool to make bots that make fun of corporations, politicians and celebrities, but its not cool to make bots that bully and harass regular people, especially groups of people that put up with a lot of that harassment already.
 
-If your bot "accidentally" generates text that is harmful in any way, for example, if the text is sexist, racism, ableism, and so on, that is a problem. It is your responsibility as a bot-maker to think about and prevent this. You are responsible for the actions of your bot, especially if it hurts another person.
+If your bot "accidentally" generates text that is harmful in any way, for example, if the text is sexist, racism, ableism, and so on, that is a problem. It is your responsibility as a bot-maker to think about and prevent this. You are responsible for the actions of your bot, especially if it hurts another person. If you're unsure, err on the side of caution.
 
 ## Going Further
 * [Tracery Github repository](https://github.com/galaxykate/tracery/tree/tracery2) - The source code for Tracery. You can use it in any JavaScript project!
