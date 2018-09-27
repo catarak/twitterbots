@@ -22,7 +22,7 @@ A Twitter bot workshop using Tracery and CheapBotsDoneQuick
 - [@ArtAssignBot](https://twitter.com/artassignbot) by [Jeff Thompson](https://twitter.com/jeffthompson_)
 - [@autoflaneur](https://twitter.com/autoflaneur) by [Harry Giles](https://twitter.com/harrygiles)
 - [@MagicRealismBot](https://twitter.com/magicrealismbot) by [Chris Rodley](https://twitter.com/chrisrodley)
-- [@bot_teleport](https://twitter.com/bot_teleport)
+- [@bot_teleport](https://twitter.com/bot_teleport) by [Rick Hoppmann](https://twitter.com/tinyruin)
 - [@softlandscapes](https://twitter.com/softlandscapes) by [George Buckenham](https://twitter.com/v21)
 - [@thetinygallery](https://twitter.com/thetinygallery) by [Emma Winston](https://twitter.com/deer_ful)
 - [@tinycarebot](https://twitter.com/tinycarebot) by [Jonny Sun](https://twitter.com/jonnysun)
