@@ -30,7 +30,7 @@ A Twitter bot workshop using Tracery and CheapBotsDoneQuick
 
 ## Tracery
 [Tracery](http://tracery.io) is a text generation library created by [Kate Compton](http://www.galaxykate.com/).
-It's basically a big list of lists and templates you use to generate text in a Mad Libs-style, where certain parts of a sentence are selected at random from a larger group.
+It's basically a big list of lists and templates you use to generate text in a [Mad Libs](https://en.wikipedia.org/wiki/Mad_Libs)-style, where certain parts of a sentence are selected at random from a larger group.
 
 - [Online Tracery Editor](https://beaugunderson.com/tracery-writer/)
 - [Corpora](https://github.com/dariusk/corpora/tree/master/data) big lists of stuff!
