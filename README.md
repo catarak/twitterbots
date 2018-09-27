@@ -1,16 +1,16 @@
 # Let's make a Twitter Bot!
-A Twitter bot workshop using Tracery and CheapBotsDoneQuick
+A Twitter bot workshop using Tracery and Cheap Bots Done Quick.
 
 ## Overview
-- Look at some Twitter bots, understand what they are
+- Look at some Twitter bots, and understand what they are.
 - Learn Tracery, a simple method of Mad Libs-style text generation
 - Make our own generators using Tracery
 - Learn how to use Cheap Bots Done Quick, a beginner-friendly platform for hosting Twitter bots
-- Turn our generators into real, functioning bots
+- Turn our generators into real bots
 
 
 ## Let's look at some Twitter bots
-(Note: Not all of these use Cheap Bots Done Quick)
+(Note: Not all of these use CheapBotsDoneQuick)
 - [@TwoHeadlines](https://twitter.com/TwoHeadlines) by [Darius Kazemi](https://twitter.com/tinysubversions)
 - [@SortingBot](https://twitter.com/SortingBot) by [Darius Kazemi](https://twitter.com/tinysubversions)
 - [@RapNameBot](https://twitter.com/RapNameBot) by [Darius Kazemi](https://twitter.com/tinysubversions)
@@ -36,30 +36,30 @@ It's basically a big list of lists and templates you use to generate text in a [
 - [Corpora](https://github.com/dariusk/corpora/tree/master/data) big lists of stuff!
 - Lets looks at some of the JSON files included in this repo and plug them in!
 
-Time to try making our own. Break into groups and come up with an idea for your generator. Good bots have a simple narrow theme that is then expanded on to have a lot of possibility. 
+Let's try making our own! Break into groups and come up with an idea for your generator. Good bots have a simple, narrow theme that is then expanded upon to have a lot of possibility. 
 
-- Start with a recent news headline, a fun meme, or a subject you're interested.
+- Start with a recent news headline, a fun meme, or a subject you're interested. Don't overthink it!
 - Make a starter template sentence
 - Make lists of things that could be swapped out
 - Generate!
 
 ## Cheap Bots, Done Quick
 
-[Cheap Bots Done Quick](https://cheapbotsdonequick.com/) is a fantastic twitterbot hosting platform by [George Buckenham](https://v21.io/) that lets you turn any Tracery generator into a Twitter bot. Here's all you need to do:
+[Cheap Bots Done Quick](https://cheapbotsdonequick.com/) is a fantastic Twitter bot hosting platform by [George Buckenham](https://v21.io/) that lets you turn any Tracery generator into a Twitter bot. Here's all you need to do:
 
-- Create a new [Twitter account](https://twitter.com/). Putting in a phone number will keep your account from getting shut down.
-- Log in to [Cheap Bots Done Quick](https://cheapbotsdonequick.com/) with your new twitter account
-- Paste in the grammar from your tracery generator
+- Create a new [Twitter account](https://twitter.com/). If you can, putting in a phone number will keep your account from getting shut down.
+- Log in to [Cheap Bots Done Quick](https://cheapbotsdonequick.com/) with your new Twitter account
+- Paste in the grammar from your Tracery generator
 - Test to make sure it works
 - Set how often you want to tweet
-- Go back into the twitter account and make a nice profile and banner image and description (let people know it's a bot)
+- Go back into the Twitter account and make a nice profile and banner image and description. Make sure you let people know it's a bot.
 - Done!
 
 ## Some Ethical Guidelines
 
 To quote Leonard Richardson and an axiom of the botmaking community, ["Bots should punch up"](https://www.crummy.com/2013/11/27/0). If your bot makes jokes at someone's expense, make sure they're higher status than you, aka it's cool to make bots that make fun of corporations, politicians and celebrities, but its not cool to make bots that bully and harass regular people, especially groups of people that put up with a lot of that harassment already.
 
-If your bot "accidentally" generates text that is harmful in any way, for example, if the text is sexist, racism, ableism, and so on, that is a problem. It is your responsibility as a bot-maker to think about and prevent this. You are responsible for the actions of your bot, especially if it hurts another person. If you're unsure, err on the side of caution.
+If your bot "accidentally", or you purposefully program it so that it generates text that is harmful in any way, for example, if the text is sexist, racism, ableism, and so on, that is a problem. It is your responsibility as a bot-maker to think about and prevent this. You are responsible for the actions of your bot, especially if it hurts another person. If you're unsure, err on the side of caution.
 
 ## Going Further
 * [Tracery Github repository](https://github.com/galaxykate/tracery/tree/tracery2) - The source code for Tracery. You can use it in any JavaScript project!
