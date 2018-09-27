@@ -1,0 +1,89 @@
+{
+  "origin": [
+    "#[pet:#name#][colorName:#color#]story#"
+  ],
+  "story": [
+    "#pet# always wore #colorName#, but #pet# hated #colorName#. Their pet #animal# loved #colorName#, however.",
+    "My pet #animal# keeps me up at night playing the #instrument#.",
+    "My pet #animal# always hides my #toy#."
+  ],
+  "name": [
+    "Ziggy",
+    "Moon",
+    "Mei",
+    "Ahmed",
+    "Casey"
+  ],
+  "instrument": [
+     "glockenspiel",
+     "piano",
+     "electric guitar",
+     "tabla",
+     "recorder"
+  ],
+  "toy": [
+     "#color# ball",
+     "trash can",
+     "feather duster",
+     "electric guitar"
+  ],
+  "feeling": [
+    "love",
+    "hate",
+    "envy",
+    "am resentful of",
+    "am frustrated with",
+    "am obsessed with",
+    "enjoy playing with"
+  ],
+  "often": [
+    "rarely",
+    "never",
+    "often",
+    "almost always",
+    "always",
+    "sometimes"
+  ],
+  "color": [
+    "blue",
+    "green",
+    "grey",
+    "indigo",
+    "orange",
+    "purple",
+    "turquoise"
+  ],
+  "animal": [
+    "unicorn",
+    "raven",
+    "sparrow",
+    "scorpion",
+    "coyote",
+    "eagle",
+    "owl",
+    "lizard",
+    "zebra",
+    "duck",
+    "kitten"
+  ],
+  "mood": [
+    "vexed",
+    "indignant",
+    "impassioned",
+    "wistful",
+    "astute",
+    "courteous"
+  ],
+  "natureNoun": [
+    "ocean",
+    "mountain",
+    "forest",
+    "cloud",
+    "river",
+    "tree",
+    "sky",
+    "earth",
+    "void",
+    "desert"
+  ]
+}
